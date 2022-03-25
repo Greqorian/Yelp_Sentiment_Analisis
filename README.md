@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-<img src="Application Mockup.png" width="600"> 
+<img src="Sentimental_Analysis.png" width="600"> 
   <h3 align="center">Yelp_Sentiment_Analisis
 </h3>
 
@@ -19,7 +19,11 @@ The subject of this data science project is to analyze customer reviews of comme
 
 The study is based on Yelp's extensive database: https://www.kaggle.com/yelp-dataset/yelp-dataset
 
-### Results preview
+### Tabelau preview
+
+<img src="Dashboard_General.png" width="800"> 
+<img src="Dashboard_Split.png" width="800"> 
+
 ### Package contents
 
 - Yelp Reviews Sentimental Analysis.pptx - power point presentation
@@ -28,10 +32,9 @@ The study is based on Yelp's extensive database: https://www.kaggle.com/yelp-dat
 - kaggle.json- access token for kaggle server
 - library.py - python script with support functions
 
-
 ### How to use
 
-#### TO RUN THE PYTHON SCRIPT PLEASE FOLLOW THE INSTRUCTIONS::
+TO RUN THE PYTHON SCRIPT PLEASE FOLLOW THE INSTRUCTIONS:
 
 1. Download the datasets: yelp_academic_dataset_business and yelp_academic_dataset_review from the kaggle server to the folder where the program is located. 
 You can find them at the following address: https://www.kaggle.com/yelp-dataset/yelp-dataset
@@ -43,7 +46,7 @@ You can find them at the following address: https://www.kaggle.com/yelp-dataset/
 4. Now run the python script which should generate two files: Table_Merged.xlsx and Table_splitted.csv
 
 
-#### TO RUN THE TABELAU WORKBOOKS PLEASE FOLLOW THE INSTRUCTIONS::
+TO RUN THE TABELAU WORKBOOKS PLEASE FOLLOW THE INSTRUCTIONS:
 
 1. Open the packed file Tableau_Reviews_Text.tbwx - Opening datasets can take more than 5 minutes depending on the power of the computer
 
