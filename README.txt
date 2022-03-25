@@ -1,27 +1,37 @@
-YELP SENTIMENTAL ANALYSIS
-Unternehmenssoftware | Data Science Project
+<br />
+<p align="center">
+<img src="Application Mockup.png" width="600"> 
+  <h3 align="center">Yelp_Sentiment_Analisis
+</h3>
 
-Project Group:
-Gregor Pawlak email: s0563317@htw-berlin.de  
-Karsten Saß email: s0568771@htw-berlin.de
- 
-Package contents:
-
-main folder files:
-Yelp Reviews Sentimental Analysis.pptx - power point presentation
-Yelp_Analysis.py - python script
-Tableau_Reviews_Text.tbwx - Tableau workbook 
-kaggle.json- access token for kaggle server
-library.py - python script with support functions
+  <p align="center">
+    Web application to identify ikea store furniture in pictures
+  </p>
+</p>
 
 
-optional folder files:
-Tableau_Reviews_Matrix.tbwx - tableau workbook with document term matrix
-Tableau_Reviews_Text.tbw - unpacked tableau workbook project
-stopwords.txt - list of words excluded from Tabelau results
+<!-- ABOUT THE PROJECT -->
+### About The Project
+
+The data science project completed as part of a Business Software course at HTW Berlin. 
+
+The subject of this data science project is to analyze customer reviews of commercial enterprises posted on Yelp. It also investigated the possibility of predicting customer sentiment based on their reviews. The research allows making strategic decisions in the operation of enterprises.
+
+The study is based on Yelp's extensive database: https://www.kaggle.com/yelp-dataset/yelp-dataset
+
+### Results preview
+### Package contents
+
+- Yelp Reviews Sentimental Analysis.pptx - power point presentation
+- Yelp_Analysis.py - python script
+- Tableau_Reviews_Text.tbwx - Tableau workbook 
+- kaggle.json- access token for kaggle server
+- library.py - python script with support functions
 
 
-TO RUN THE PYTHON SCRIPT PLEASE FOLLOW THE INSTRUCTIONS::
+### How to use
+
+#### TO RUN THE PYTHON SCRIPT PLEASE FOLLOW THE INSTRUCTIONS::
 
 1. Download the datasets: yelp_academic_dataset_business and yelp_academic_dataset_review from the kaggle server to the folder where the program is located. 
 You can find them at the following address: https://www.kaggle.com/yelp-dataset/yelp-dataset
@@ -33,7 +43,7 @@ You can find them at the following address: https://www.kaggle.com/yelp-dataset/
 4. Now run the python script which should generate two files: Table_Merged.xlsx and Table_splitted.csv
 
 
-TO RUN THE TABELAU WORKBOOKS PLEASE FOLLOW THE INSTRUCTIONS::
+#### TO RUN THE TABELAU WORKBOOKS PLEASE FOLLOW THE INSTRUCTIONS::
 
 1. Open the packed file Tableau_Reviews_Text.tbwx - Opening datasets can take more than 5 minutes depending on the power of the computer
 
@@ -44,3 +54,17 @@ TO RUN THE TABELAU WORKBOOKS PLEASE FOLLOW THE INSTRUCTIONS::
 4. Select all columns with name containing 'text' and select pivot option
 
 5. Replace any missing references with ones from the new table
+
+### Built With
+
+* [Google Colab](https://colab.research.google.com/)
+* [Python](https://www.python.org/)
+* [PyTorch](https://pytorch.org/)
+* [Tabelau](https://www.tableau.com/)
+
+<!-- CONTACT -->
+### Contact
+
+Gregor Pawlak - [linkedIn](https://www.linkedin.com/in/grzegorz-pawlak/) 
+
+Project Link: [https://github.com/Greqorian/Yelp_Sentiment_Analisis](https://github.com/Greqorian/Yelp_Sentiment_Analisis)
