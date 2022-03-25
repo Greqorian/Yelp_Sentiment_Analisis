@@ -5,7 +5,7 @@
 </h3>
 
   <p align="center">
-    Web application to identify ikea store furniture in pictures
+    Data science project on customer sentiment analysis
   </p>
 </p>
 
