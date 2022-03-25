@@ -21,8 +21,8 @@ The study is based on Yelp's extensive database: https://www.kaggle.com/yelp-dat
 
 ### Tabelau preview
 
-<img src="Dashboard_General.png" width="800"> 
-<img src="Dashboard_Split.png" width="800"> 
+<img src="Dashboard_General.PNG" width="800"> 
+<img src="Dashboard_Split.PNG" width="800"> 
 
 ### Package contents
 
